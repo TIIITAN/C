@@ -1,0 +1,1 @@
+-std=c99 -pedantic -MMD -g -Werror -Wall -Wextra -Wconversion -Wc++-compat -Wwrite-strings -Wold-style-definition -Wvla
